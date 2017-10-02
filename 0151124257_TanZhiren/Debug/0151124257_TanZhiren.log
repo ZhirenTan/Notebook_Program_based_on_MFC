@@ -1,0 +1,28 @@
+﻿生成启动时间为 2017/8/29 23:04:49。
+     1>项目“C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\0151124257_TanZhiren\0151124257_TanZhiren.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\0151124257_TanZhiren\\" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\0151124257_TanZhiren.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 0151124257_TanZhirenDlg.cpp
+         0151124257_TanZhirenDlg.cpp
+     1>c:\users\nelson\desktop\0151124257_谭智仁\0151124257_tanzhiren\0151124257_tanzhiren\0151124257_tanzhirendlg.cpp(4): warning C4627: “#include "ctime"”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\nelson\downloads\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\nelson\desktop\0151124257_谭智仁\0151124257_tanzhiren\0151124257_tanzhiren\0151124257_tanzhirendlg.cpp(342): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+     1>c:\users\nelson\desktop\0151124257_谭智仁\0151124257_tanzhiren\0151124257_tanzhiren\0151124257_tanzhirendlg.cpp(348): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>c:\users\nelson\desktop\0151124257_谭智仁\0151124257_tanzhiren\0151124257_tanzhiren\0151124257_tanzhirendlg.cpp(280): warning C4101: “IsDirectory”: 未引用的局部变量
+     1>c:\users\nelson\desktop\0151124257_谭智仁\0151124257_tanzhiren\0151124257_tanzhiren\0151124257_tanzhirendlg.cpp(484): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Debug\0151124257_TanZhiren.exe" /INCREMENTAL /NOLOGO vfw32.lib shlwapi.lib opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Debug\0151124257_TanZhiren.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Debug\0151124257_TanZhiren.lib" /MACHINE:X86 Debug\0151124257_TanZhiren.res
+         Debug\CvvImage.obj
+         Debug\0151124257_TanZhiren.obj
+         Debug\0151124257_TanZhirenDlg.obj
+         Debug\folder.obj
+         Debug\photo.obj
+         Debug\stdafx.obj
+         Debug\voice.obj
+         0151124257_TanZhiren.vcxproj -> C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Debug\0151124257_TanZhiren.exe
+     1>已完成生成项目“C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\0151124257_TanZhiren\0151124257_TanZhiren.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.90

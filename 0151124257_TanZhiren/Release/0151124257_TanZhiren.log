@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/8/28 19:46:11。
+     1>项目“C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\0151124257_TanZhiren\0151124257_TanZhiren.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Release\0151124257_TanZhiren.exe" /INCREMENTAL:NO /NOLOGO opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Release\0151124257_TanZhiren.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Release\0151124257_TanZhiren.lib" /MACHINE:X86 /SAFESEH Release\0151124257_TanZhiren.res
+         Release\CvvImage.obj
+         Release\0151124257_TanZhiren.obj
+         Release\0151124257_TanZhirenDlg.obj
+         Release\photo.obj
+         Release\stdafx.obj
+         Release\voice.obj
+     1>voice.obj : error LNK2001: 无法解析的外部符号 _MCIWndCreateW
+     1>C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\Release\0151124257_TanZhiren.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\Nelson\Desktop\0151124257_谭智仁\0151124257_TanZhiren\0151124257_TanZhiren\0151124257_TanZhiren.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.75
